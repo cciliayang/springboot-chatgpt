@@ -1,0 +1,7 @@
+com\learningchatgpt\springbootgpt\dto\ChatBotResponse.class
+com\learningchatgpt\springbootgpt\config\OpenAIChatGtpConfig.class
+com\learningchatgpt\springbootgpt\SpringbootGptApplication.class
+com\learningchatgpt\springbootgpt\dto\ChatBotRequest.class
+com\learningchatgpt\springbootgpt\dto\Message.class
+com\learningchatgpt\springbootgpt\controller\ChatBotController.class
+com\learningchatgpt\springbootgpt\dto\ChatBotResponse$Choice.class
